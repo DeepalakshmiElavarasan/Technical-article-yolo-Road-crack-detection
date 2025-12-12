@@ -1,2 +1,5 @@
-# Technical-article-yolo-Road-crack-detection
-Technical article explaining YOLO-based Road Crack Detection using Python
+# Introduction to YOLO for Road Crack Detection Using Python
+
+A Beginner-Friendly Technical Article by **Deepalakshmi**
+
+...
